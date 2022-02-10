@@ -6,7 +6,7 @@ After sign-up, The user can create workspaces after logging in and upload docume
 
 CI/CD pipeline configured to automatically deploy code on Red Hat server in AWS using Jenkins whenever a new commit is pushed to the PROD branch.
 
-# To run the project
+### To run the project
 
 export FLASK_APP=docspace
 flask run
