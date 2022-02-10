@@ -9,4 +9,5 @@ CI/CD pipeline configured to automatically deploy code on Red Hat server in AWS 
 ### To run the project
 
 export FLASK_APP=docspace
+
 flask run
